@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://asrumiantceva.github.io/sitemap.xml
